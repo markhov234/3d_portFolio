@@ -33,7 +33,9 @@ const components = {
 }
 
 const fonts = {
-  heading: "'M PLUS Rounded 1c'"
+  heading: "'M PLUS Rounded 1c'",
+  body: "'Sora'",
+  fontWeight: '300'
 }
 
 const colors = {
